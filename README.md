@@ -10,6 +10,7 @@
 2. ## 编程方法
    
    **教材**：斯坦福的《[编程方法学](http://web.stanford.edu/class/cs106a/)》。教学视频在[这里](https://www.bilibili.com/video/av8048664?from=search&seid=4584313577270804135)。可不学图形界面部分
+   
    **学习方式**：
    
    - 观看视频+完成[作业](https://github.com/qinqiang2000/new_staff_promotion/tree/master/%E6%96%AF%E5%9D%A6%E7%A6%8F_%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95%E5%AD%A6_%E4%BD%9C%E4%B8%9A)+导师批改作业。导师针对每个作业指出好的及要改进的地方（非常重要）
