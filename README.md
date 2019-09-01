@@ -38,4 +38,4 @@
    
    **SQL，Mybatis**：暂定自行掌握，只需掌握基本的使用方法即可
    
-   **工程实践**：待定
+   **工程实践**：[题目](https://github.com/qinqiang2000/new_staff_promotion/blob/master/%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5%E9%A2%98%E7%9B%AE.md)
